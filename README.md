@@ -210,15 +210,4 @@ The application implements careful memory management:
 - Model requires sufficient historical data for accuracy
 - Limited by browser memory constraints
 
-## Future Improvements
 
-- Add support for multiple technical indicators
-- Implement sentiment analysis from social media
-- Add portfolio management features
-- Include risk management tools
-- Support for multiple exchanges
-- Advanced charting capabilities
-- Implement transfer learning for model adaptation
-- Add real-time WebSocket price updates
-- Enhance memory optimization
-- Implement model versioning and A/B testing

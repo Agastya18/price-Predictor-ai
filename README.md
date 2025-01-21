@@ -2,7 +2,8 @@
 
 An advanced cryptocurrency price prediction system that uses artificial intelligence to forecast price movements and includes a comprehensive backtesting framework.
 
-![Crypto Price Predictor](https://images.unsplash.com/photo-1605792657660-596af9009e82?auto=format&fit=crop&q=80&w=1200)
+<img width="1445" alt="Screenshot 2025-01-21 at 7 20 27 PM" src="https://github.com/user-attachments/assets/7ed008e0-3472-40f7-be70-c0e00bf84b1b" />
+
 
 ## Features
 

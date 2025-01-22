@@ -63,10 +63,10 @@ export class PricePredictor {
     return normalizedData;
   }
 
-  async train(data: KlineData[]) {
-    const normalizedData = this.preprocessData(data);
-    // Training implementation...
-  }
+  // async train(data: KlineData[]) {
+  //   const normalizedData = this.preprocessData(data);
+  //   // Training implementation...
+  // }
 
   async predict(data: KlineData[]): Promise<PredictionResult> {
     if (!this.model) {
